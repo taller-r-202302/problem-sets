@@ -1,0 +1,40 @@
+---
+title: "Taller de R: Estadística y Programación"
+date: '16/08/2023'
+pagetitle: "Taller 2"
+output: 
+       pdf_document: default
+---
+
+<!-- Configuracion de la consola de R -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T , eval = T , warning = T)
+```
+
+En este taller se evalúan los temas vistos en las clases 4 a 7 del curso. Lea atentamente las instrucciones del taller.
+
+<!----------------------------------------------------------------------------->
+
+```{=tex}
+\begin{center} \textcolor{blue}{\subsection{Instrucciones}} \end{center}
+```
+-   Este taller pesa el **20%** de la nota total del curso y podrá responderlo de manera individual o en grupo de hasta 3 personas. 
+
+- Debe crear un repositorio en GitHub y después debe crear un proyecto en R conectado al repositorio de GitHub. Este proyecto debe incluir a lo menos tres carpetas: `input` (datos originales), `output` (datos procesados) y `code` (script con la respuesta del taller). En las primeras líneas del script debe escribir su nombre, código y la versión de R sobre la que está trabajando. Además, al inicio del código debe llamar/instalar las librerías que va a usar en la sesión. Por ejemplo: `pacman`, `rio`, `data.table` y `tidyverse` (a lo menos).
+
+- Por favor sea lo más organizado posible y comente paso a paso cada línea de código, pero recuerden **NO** usar ningún acento o carácter especial dentro del código para evitar problemas al abrir los scripts en los diferentes sistemas operativos.
+
+- Si decide trabajar en grupo, recuerde que deben crear un único repositorio de GitHub para todo el grupo. Sin embargo, **Cada integrante** del grupo deberá colgar en Bloque Neón el enlace al repositorio de GitHub antes de las 23:59 horas del **28 de septiembre de 2023**.
+
+- No seguir las instrucciones tiene una penalización del **20%** de la nota final.
+
+<!----------------------------------------------------------------------------->
+```{=tex}
+\begin{center} \textcolor{blue}{\section{Problem-set}} \end{center}
+```
+
+
+
+
+
