@@ -81,10 +81,9 @@ En este taller se evalúan los temas vistos en las clases 1 a 3 del curso. Lea a
 
 \item \textbf{Acceso a elementos de una lista:} Explique con un ejemplo cómo acceder al segundo elemento del vector dentro de \texttt{mi\_lista}.
 
-\item \textbf{Combinación de listas:}
-Combina las listas \texttt{lista1} y \texttt{lista2} en una nueva lista llamada \texttt{lista\_combinada}.
+\item \textbf{Combinación de listas:} Genere dos listas vacias y llamelas \texttt{lista1} y \texttt{lista2}, luego combinelas en una nueva lista llamada \texttt{lista\_combinada}.
 
-\item \textbf{Lista de listas:} Crea una lista de listas donde cada elemento sea una lista que contenga un vector de nombres y un dataframe.
+\item \textbf{Lista de listas:} Crea una lista de listas donde cada elemento sea una lista que contenga un vector de nombres y un dataframe. Puede usar los objetos \texttt{mi\_dataframe} y \texttt{mi\_vector}.
 \end{itemize}
 
 
