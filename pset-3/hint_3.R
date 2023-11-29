@@ -34,8 +34,8 @@ View(lista_resto[[20]])
 lista_resto[[36]] <- NULL
 df_resto <- rbindlist(l=lista_resto , use.names=T , fill=T)
 
-
-
+## export
+export(df_resto,"pset-3/output/db_full.rds")
 
 
 
